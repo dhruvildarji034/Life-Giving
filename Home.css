@@ -1,0 +1,110 @@
+
+  h1{
+    color: green;
+    text-align: center;
+}
+h4{
+  font-size: 20px;
+}
+.facts p{
+    color:green;
+    text-align: center; 
+    font-size: 25px;
+}.thecarddiv{
+  text-align: center;
+  color: green;
+}
+
+.hello{
+  color:black;
+}
+  .community {
+    background-image: url('images/6432897.jpg');
+    background-size: cover;
+    background-position: center;
+    width: 400px;
+    height: 350px;
+    margin-left: 100px;
+    margin-top: 30px;
+    
+  }
+
+  .community-section{
+ text-align: justify;
+ height: 500px;
+ width:500px;
+ color: green;
+ margin-right: 150px;
+ font-size: 20px;
+  }
+
+  .commain{
+    display: flex;
+    justify-content: space-between;
+  }
+.whyus-section h1{
+  padding-top: 0%;
+  margin-top: 0%;
+}
+.card {
+  box-shadow: 0 4px 8px 0 rgb(185, 151, 151);
+  transition: 0.3s;
+  background-color: rgb(255, 255, 255);
+  height: 200px;
+  width:260px;
+  margin: 20px;
+  color:rgb(32, 37, 31);
+  padding-left: 20px;
+}
+.card:hover
+{
+  height: 210px;
+  box-shadow: 0 0 8px;
+}
+
+
+.container {
+  padding: 2px 16px;
+  text-align:justify;
+}
+
+
+.cardmain{
+  display: flex;
+  justify-content: space-between;
+}
+
+.card h4{
+  color: rgb(26, 131, 0);
+  text-align:center;
+ 
+}
+.menu{
+  display: flex;
+  justify-content: space-around;
+  border:solid grey 1px;
+  /* box-shadow: 0 0 5px; */
+  width: 1200px;
+  margin: 50px;
+
+}
+.photo{
+  height: 350px;
+  width: 350px;
+  padding: 50px;
+  
+}
+.photo img{
+  height: 350px;
+  width: 350px;
+  border:solid grey 1px;
+
+  /* margin: 20px; */
+}
+.details{
+  margin-left: 50px;
+  max-width: 500px;
+  margin: 50px;
+  color: green;
+  font-size: 25px;
+}

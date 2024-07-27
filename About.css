@@ -1,0 +1,114 @@
+.about-us {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    text-align: justify;
+  }
+  
+  .about-us div {
+    margin-bottom: 20px;
+  }
+  
+  .about-us h1, .about-us h2 {
+    /* color: #2e8b57; */
+    color:green;
+    text-align: left;
+  
+  }
+  
+  .about-us p {
+    color: #333;
+    line-height: 1.6;
+  }
+  
+  .about-us ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .about-us ul li {
+    margin-bottom: 10px;
+  }
+  
+  .about-us a {
+    color: #2e8b57;
+    text-decoration: none;
+  }
+  
+  .about-us a:hover {
+    text-decoration: underline;
+  }
+
+.welcome-section h1
+  {
+    text-align: center;
+  } 
+.story-section{
+  padding-left: 150px;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 50px;
+  width: 1000px;
+  padding-bottom: 0%;
+}
+.story{
+  height: 300px;
+  width:500px ;
+}
+.ourstoryimage{
+  background-image: url('images/ourstory.jpg');
+    background-size: cover;
+    background-position: center;
+    width: 400px;
+    height: 250px;
+    border-radius: 5px 
+}
+.ourstoryimage:hover{
+  box-shadow: 0 0 5px grey;
+}
+.mission-section{
+  padding-left: 150px;
+  display: flex;
+  justify-content: space-between;
+  /* padding-top: 50px; */
+  width: 1000px;
+  /* padding-bottom: 0%; */
+}
+
+.ourmissionimage{
+  background-image: url('images/ourgoal2.jpg');
+    background-size: cover;
+    background-position: center;
+    width: 400px;
+    height: 250px;
+    
+}
+.ourmissionimage:hover{
+  box-shadow: 0 0 5px grey;
+}
+.mission{
+  height: 300px;
+  width:500px ;
+}
+.team-section{
+  padding-left: 150px;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 50px;
+  width: 1000px;
+  padding-bottom: 0%;
+}
+.team{
+  height: 300px;
+  width:500px ;
+}
+.ourteamimage{
+  background-image: url('images/ourteam.jpg');
+    background-size: cover;
+    background-position: center;
+    width: 400px;
+    height: 250px;
+    border-radius: 5px 
+}
+.ourteamimage:hover{
+  box-shadow: 0 0 5px grey;
+}

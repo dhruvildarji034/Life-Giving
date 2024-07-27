@@ -1,0 +1,18 @@
+.footer{
+    display: flex;
+    justify-content: space-between;
+    background-color: grey;
+    color: white;
+}
+.p{
+    display: flex;
+    justify-content: space-between;
+    margin: 0%;
+}
+.footer-contact{
+    padding-right: 15px;
+    font-size: 15px;
+}
+.footer-about{
+    margin-right: 25px;
+}
