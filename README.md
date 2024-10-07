@@ -11,3 +11,7 @@ The **GoGreen** website is an e-commerce platform focused on selling a wide vari
 
 ## Technologies Used
 - **Frontend**: React.js, HTML, CSS
+
+## Website Preview
+![Website Screenshot](image.png)
+
