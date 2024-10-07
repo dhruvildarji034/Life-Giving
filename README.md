@@ -1,4 +1,4 @@
-# GoGreen
+# Gogreen
 
 ## Overview
 The **GoGreen** website is an e-commerce platform focused on selling a wide variety of plants, promoting sustainable and green living. Users can browse different plant categories and easily shop for eco-friendly products. Built using **React.js**, **HTML**, and **CSS**, the website offers a clean and responsive interface, providing an optimal user experience across devices.
