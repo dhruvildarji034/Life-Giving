@@ -13,5 +13,18 @@ The **GoGreen** website is an e-commerce platform focused on selling a wide vari
 - **Frontend**: React.js, HTML, CSS
 
 ## Website Preview
-![Website Screenshot](image.png)
+- **HOME PAGE**
+![Website Screenshot](home1.PNG)
+![Website Screenshot](home2.PNG)
+
+- **SHOP PAGE**
+![Website Screenshot](shop1.PNG)
+![Website Screenshot](shop2.PNG)
+
+- **ABOUT PAGE**
+![Website Screenshot](about.PNG)
+
+- **CONTACT PAGE**
+![Website Screenshot](contact.PNG)
+
 
